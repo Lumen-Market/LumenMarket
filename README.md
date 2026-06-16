@@ -1,4 +1,4 @@
-# LumenMarket
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eccf86f-f81c-49fb-a65a-2347b51acdee" /># LumenMarket
 
 A permissionless token launchpad on Stellar with bonding curve price discovery that automatically migrates liquidity to the native DEX when a market cap target is reached.
 
@@ -13,6 +13,15 @@ A permissionless token launchpad on Stellar with bonding curve price discovery t
 5. [Contributing](#contributing)
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60bb031b-218a-4ff4-aa90-2bf3e48b3d97" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17915d06-c707-4893-a663-e248d6ca1631" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52c0e1f7-b0f7-4e76-a7d5-e1050ca2c706" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8760c7f-4f33-475d-b80a-87dbd74a26d9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06822ba6-707a-4219-85dd-f8eaf7b89328" />
+
+
+
+https://curve-crest-launch.lovable.app/
 
 ## Problem It Solves
 
