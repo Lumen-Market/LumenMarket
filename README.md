@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eccf86f-f81c-49fb-a65a-2347b51acdee" /># LumenMarket
+# LumenMarket
 
 A permissionless token launchpad on Stellar with bonding curve price discovery that automatically migrates liquidity to the native DEX when a market cap target is reached.
 
